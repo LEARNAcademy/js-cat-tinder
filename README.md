@@ -1,6 +1,6 @@
 # Introduction
 
-Let's refer back to the wireframes, and recall what our interface is going to look like:
+We're going to build a tested, fully functional React frontend application to help our cats make new friends.
 
 ![wires](https://s3.amazonaws.com/learn-site/curriculum/cat-tinder/cat-tinder-wireframe.png)
 
